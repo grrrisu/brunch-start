@@ -1,5 +1,5 @@
-How it's done
--------------
+How it was done
+---------------
 
 ```
 > npm init

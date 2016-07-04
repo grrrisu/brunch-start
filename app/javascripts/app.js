@@ -1,7 +1,7 @@
 "use strict";
 
 var App = {
-  init: function init() {
+  init: function() {
     let appName = "brunch-starter";
     console.log(`${appName} initialized.`);
   }
