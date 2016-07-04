@@ -1,0 +1,23 @@
+{
+  "name": "brunch-starter",
+  "version": "0.0.1",
+  "description": "brunch with es6 and sass",
+  "main": "app.js",
+  "scripts": {
+    "start": "brunch watch --server",
+    "prod": "brunch build --production"
+  },
+  "keywords": [
+    "brunch",
+    "es6",
+    "sass",
+    "build-tool"
+  ],
+  "author": "Alessandro Di Maria",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-brunch": "^6.0.4",
+    "brunch": "^2.8.2",
+    "sass-brunch": "^2.6.3"
+  }
+}
