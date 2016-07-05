@@ -1,6 +1,6 @@
 "use strict";
 
-var Phaser = require('phaser');
+import Game from 'javascripts/game.js';
 
 var App = {
   init: function() {
@@ -9,13 +9,9 @@ var App = {
   },
 
   game: function() {
-    new Phaser.Game(800, 600, Phaser.AUTO, '', {
-      preload: function() {},
-      create: function() {},
-      update: function() {}
-    });
+    //new Game(window.innerWidth, window.innerHeight);
+    new Game(800, 600);
   }
-
 
 };
 
