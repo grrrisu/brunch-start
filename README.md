@@ -10,6 +10,17 @@ Ingrediens:
 * gzip
 * auto-reload
 
+Usage
+-----
+
+install, develop, deploy
+
+```
+> npm install
+> npm start
+> brunch build -p
+```
+
 How it was done
 ---------------
 
@@ -18,6 +29,4 @@ How it was done
 > npm install --save-dev brunch babel-brunch sass-brunch auto-reload-brunch digest-brunch uglify-js-brunch
 ```
 
-create ```brunch-config.js```
-
-```brunch build``` or ```npm start``` or ```brunch watch --server```
+created ```brunch-config.js```
