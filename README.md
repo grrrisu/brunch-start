@@ -9,6 +9,7 @@ Ingrediens:
 * digest
 * gzip
 * auto-reload
+* Phaser
 
 Usage
 -----

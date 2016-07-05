@@ -13,5 +13,12 @@ module.exports = {
 
   plugins: {
     babel: {presets: ['es2015']}
+  },
+
+  npm: {
+    globals:{
+      PIXI: 'phaser/dist/pixi.js',
+      p2:   'phaser/dist/p2.js'
+    }
   }
 };
