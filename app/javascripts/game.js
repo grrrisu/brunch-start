@@ -1,4 +1,3 @@
-import Phaser from 'phaser';
 import Main from 'javascripts/states/main.js';
 
 class Game extends Phaser.Game {

@@ -1,5 +1,3 @@
-import Phaser from 'phaser';
-
 class Main extends Phaser.State {
 
   preload() {

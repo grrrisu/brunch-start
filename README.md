@@ -28,6 +28,7 @@ How it was done
 ```
 > npm init
 > npm install --save-dev brunch babel-brunch sass-brunch auto-reload-brunch digest-brunch uglify-js-brunch
+> npm install --save phaser
 ```
 
 created ```brunch-config.js```

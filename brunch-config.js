@@ -17,8 +17,9 @@ module.exports = {
 
   npm: {
     globals:{
-      PIXI: 'phaser/dist/pixi.js',
-      p2:   'phaser/dist/p2.js'
+      PIXI:   'phaser/dist/pixi.js',
+      p2:     'phaser/dist/p2.js',
+      Phaser: 'phaser'
     }
   }
 };
