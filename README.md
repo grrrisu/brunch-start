@@ -14,7 +14,7 @@ Ingrediens:
 Usage
 -----
 
-install, develop, deploy
+install
 
 ```
 > npm install
@@ -22,9 +22,13 @@ install, develop, deploy
 > brunch build -p
 ```
 
+develop
+
 ```
 > brunch watch -s
-``
+```
+
+deploy
 
 How it was done
 ---------------
