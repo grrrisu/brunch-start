@@ -22,6 +22,10 @@ install, develop, deploy
 > brunch build -p
 ```
 
+```
+> brunch watch -s
+``
+
 How it was done
 ---------------
 
