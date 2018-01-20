@@ -2,15 +2,12 @@
 
 import Game from 'javascripts/game.js';
 
-var App = {
+const App = {
+
   init: function() {
     let appName = "brunch-starter";
     console.log(`${appName} initialized.`);
-  },
-
-  game: function() {
-    //new Game(window.innerWidth, window.innerHeight);
-    new Game(800, 600);
+    return new Game(800, 600);
   }
 
 };
